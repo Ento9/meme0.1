@@ -1,0 +1,29 @@
+body {
+    font-size: 15pt;
+    margin: 0;
+    padding 0;
+    background-color: #050058;
+}
+
+video {
+  padding: 100px;
+  margin: 100px;
+  background-color: #3204B7;
+  border-radius: 30px;
+  border: #453AFF groove 5px;
+  text-align: center;
+  left: 50%;
+}
+
+p {
+  color: #B200FF;
+  font-family: 'Oswald', sans-serif;
+  text-align: center;
+  background-color: #4A0069;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 10px;
+}
+
+
+
